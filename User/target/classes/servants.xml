@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servants>
+	<servant name="HelloObj">
+		<home-api>com.qq.tars.quickstart.server.testapp.EchoServant</home-api>
+		<home-class>com.qq.tars.quickstart.server.testapp.impl.EchoServantImpl</home-class>
+	</servant>
+</servants>

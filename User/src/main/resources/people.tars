@@ -1,0 +1,7 @@
+module PeopleApp 
+{
+	interface Echo
+	{
+	    string getPeople();
+	};
+};
